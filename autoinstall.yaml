@@ -19,6 +19,11 @@ autoinstall:
         - name: spotify
           channel: stable
           classic: false
+        - name: firefox
+        - name: gnome-3-38-2004
+        - name: gtk-common-themes
+        - name: snap-store
+        - name: snapd-desktop-integration
     codecs:
         install: true
     drivers:
